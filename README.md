@@ -24,7 +24,7 @@ Looking for a unique and beautiful NFT? Tired of complex, expensive and weird NF
 
 A CryptoSquare is a Square with 4 rows and 4 columns resulting in 16 tiles in 4 different colors. These 4 rows, 4 columns and 4 colors (blue, green, red and yellow) resulting in over 4 Billion (= 4.294.967.296) possible combinations. Out of these 4 Billion possibilities,  the CryptoSquares algorithm found 576 Squares containing in each row AND in each column all 4 different colors. Only these 576 Squares are minted and numbered as CryptoSquares and living in the blockchain metaverse. Have a look and get your favorite number and/or color pattern.
 
-NOW!
+SOON!!!
 
 
 
