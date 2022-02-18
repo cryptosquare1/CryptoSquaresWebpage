@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>CryptoSquare</title>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <div style="text-align: center;"><img src="file:///D:/CryptoSquares/GIT/CryptoSquaresWebpage/miniDNA_decodetable.png"
+        alt="" title="decode table"></div>
+    <p style="text-align: center;">Decoding the compressed CryptoSquare DNA is
+      simple ...really simple, but this simple compression saves memory and
+      therefore gas on the ethereum blockchain and allows everybody to verify
+      the appearance of a token ...Let´s explain:</p>
+    <p style="text-align: center;">A row with 4 columns and 4 different possible
+      colors in each tile has 24 (4*3*2*1) possibilities. So each row in a
+      CryptoSquare can have 24 different combinations. We mapped each
+      combination to a capital letter (A-X). It´s the same order as in the
+      overview #000 token. Btw. did you notice that in every of the 24 rows of
+      CryptoSquares in the overview token, each CryptoSquare starts with the
+      same row of tiles?</p>
+    <p style="text-align: center;">OK, after defining these rows, you can
+      identify each CryptoSquare by the capital letters mapped to their first 3
+      rows (row 4 is evident and therefore redundant). CryptoSquare_#001 for
+      example is defined by "AHQ". And thats the DNA defined for each
+      CryptoSquare and stored on-chain together with the design blueprint in the
+      contract. </p>
+    <p style="text-align: center;">Simple decoding table above ;-)</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>
